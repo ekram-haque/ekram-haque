@@ -1,50 +1,107 @@
-# Hi 👋, I'm Ekram  
-### 🔭 I build things with JavaScript, React, and Node.js
+# Hi 👋, I'm Ekramul Haque
+
+### 🔭 Full-Stack Developer | JavaScript | React | Node.js
 
 ---
 
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **Next.js** and **Redux** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Developer** building modern, high-performance web apps.
+
+* 💡 Creative problem solver & quick learner
+* 🌱 Focused on **Next.js**, **Redux**, advanced React patterns
+* 🎯 Goal: Build scalable & performant web applications
+* 📫 Reach me at: [dev.ekramul@gmail.com](mailto:dev.ekramul@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+### Frontend
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+</p>
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### Backend
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-## 🌐 Connect With Me  
+### Tools & Others
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
----
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ekram-haque&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekram-haque&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=ekram-haque&style=flat-square)
+## 🌐 Projects
+
+<div >
+
+<div style=" border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:10px; width:80%;">
+  <h3>🛒 <a href="https://github.com/ekram-haque/pawmart-client" target="_blank">Pawmart Client & Server</a></h3>
+  <p><b>Tech:</b> React | Node.js | Express | MongoDB</p>
+  <p><b>Features:</b> Product catalog, cart, checkout, admin panel</p>
+  <img src="https://img.shields.io/badge/View_Project-Pawmart-green?style=for-the-badge" />
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:10px; width:80%;">
+  <h3>🎮 <a href="https://github.com/ekram-haque/gamehub-repo" target="_blank">GameHub</a></h3>
+  <p><b>Tech:</b> JavaScript | Node.js | Express</p>
+  <p><b>Features:</b> Game list, search, user interactions, reviews</p>
+  <img src="https://img.shields.io/badge/View_Project-GameHub-blue?style=for-the-badge" />
+</div>
+
+<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:10px; width:80%;">
+  <h3>💻 <a href="https://github.com/ekram-haque/web-profolio" target="_blank">My Portfolio</a></h3>
+  <p><b>Tech:</b> HTML | CSS | JavaScript</p>
+  <p><b>Features:</b> Personal portfolio showcasing projects</p>
+  <img src="https://img.shields.io/badge/View_Project-Portfolio-purple?style=for-the-badge" />
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekram-haque&show_icons=true&theme=gruvbox&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekram-haque&layout=compact&theme=gruvbox" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ekram-haque/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/ekram-haque"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://ekramul.dev"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:dev.ekramul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Fun Animated Badges
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ekram-haque&color=blueviolet&style=flat-square" />
+  
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
