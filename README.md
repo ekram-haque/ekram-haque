@@ -23,9 +23,10 @@ I'm a passionate **Full-Stack Developer** building modern, high-performance web 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+ 
 </p>
 
 ### Backend
@@ -41,38 +42,41 @@ I'm a passionate **Full-Stack Developer** building modern, high-performance web 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  
 </p>
 
 
 ---
 
-## 🌐 Projects
 
-<div >
 
-<div style=" border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:10px; width:80%;">
-  <h3>🛒 <a href="https://github.com/ekram-haque/pawmart-client" target="_blank">Pawmart Client & Server</a></h3>
-  <p><b>Tech:</b> React | Node.js | Express | MongoDB</p>
-  <p><b>Features:</b> Product catalog, cart, checkout, admin panel</p>
-  <img src="https://img.shields.io/badge/View_Project-Pawmart-green?style=for-the-badge" />
-</div>
+<h2>🌐 Projects</h2>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:10px; width:80%;">
-  <h3>🎮 <a href="https://github.com/ekram-haque/gamehub-repo" target="_blank">GameHub</a></h3>
-  <p><b>Tech:</b> JavaScript | Node.js | Express</p>
-  <p><b>Features:</b> Game list, search, user interactions, reviews</p>
-  <img src="https://img.shields.io/badge/View_Project-GameHub-blue?style=for-the-badge" />
-</div>
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td align="center">
+      <div style="border:1px solid #e5e7eb; border-radius:12px; padding:20px; margin:10px; max-width:350px;">
+        <h3>🛒 <a href="https://github.com/ekram-haque/pawmart-client" target="_blank">Pawmart Client & Server</a></h3>
+        <p><b>Tech:</b> React • Node.js • Express • MongoDB</p>
+        <p><b>Features:</b> Product catalog, cart, checkout, admin panel</p>
+        <a href="https://github.com/ekram-haque/pawmart-client" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-Pawmart-22c55e?style=for-the-badge" />
+        </a>
+      </div>
+    <td align="center">
+      <div style="border:1px solid #e5e7eb; border-radius:12px; padding:20px; margin:10px; max-width:350px;">
+        <h3>🎮 <a href="https://github.com/ekram-haque/gamehub-repo" target="_blank">GameHub</a></h3>
+        <p><b>Tech:</b> JavaScript • Node.js • Express</p>
+        <p><b>Features:</b> Game list, search, user interactions, reviews</p>
+        <a href="https://github.com/ekram-haque/gamehub-repo" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-GameHub-3b82f6?style=for-the-badge" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:10px; width:80%;">
-  <h3>💻 <a href="https://github.com/ekram-haque/web-profolio" target="_blank">My Portfolio</a></h3>
-  <p><b>Tech:</b> HTML | CSS | JavaScript</p>
-  <p><b>Features:</b> Personal portfolio showcasing projects</p>
-  <img src="https://img.shields.io/badge/View_Project-Portfolio-purple?style=for-the-badge" />
-</div>
-
-</div>
 
 ---
 ### GitHub Contributions:
@@ -106,7 +110,6 @@ I'm a passionate **Full-Stack Developer** building modern, high-performance web 
 
 ---
 
-## ✨ Fun Animated Badges
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ekram-haque&color=blueviolet&style=flat-square" />
