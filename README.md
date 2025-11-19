@@ -1,6 +1,7 @@
 # Hi 👋, I'm Ekramul Haque
-
-### 🔭 Full-Stack Developer | JavaScript | React | Node.js
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Passionate+Learner;Frontend+Web+Developer;JavaScript+Enthusiast;Exploring+New+Tech" alt="Typing SVG" />
+</a>
 
 ---
 
@@ -74,6 +75,11 @@ I'm a passionate **Full-Stack Developer** building modern, high-performance web 
 </div>
 
 ---
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+
+---
 
 ## 📊 GitHub Stats
 
@@ -94,6 +100,11 @@ I'm a passionate **Full-Stack Developer** building modern, high-performance web 
 </p>
 
 ---
+<!--- random quote --->
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
 
 ## ✨ Fun Animated Badges
 
@@ -102,6 +113,5 @@ I'm a passionate **Full-Stack Developer** building modern, high-performance web 
   
 </p>
 
----
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
