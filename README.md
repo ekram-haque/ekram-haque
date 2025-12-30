@@ -51,17 +51,23 @@ Currently, I am focusing on **React, Next.js, and backend fundamentals** to beco
 
 <table>
   <tr>
+        <td align="center">
+      <h3>Scholarstream </h3>
+      <p><b>Tech:</b> React • Node.js • Express • MongoDB</p>
+      <p>Full-featured scholarship website .</p>
+      <a href="https://scholarstream.pages.dev">🔗 live link</a> 
+    </td>
     <td align="center">
-      <h3>🛒 Pawmart (Client & Server)</h3>
+      <h3>🛒 Pawmart </h3>
       <p><b>Tech:</b> React • Node.js • Express • MongoDB</p>
       <p>Full-featured e-commerce platform with admin panel & authentication</p>
-      <a href="https://github.com/ekram-haque/pawmart-client">🔗 Client Repo</a> 
+      <a href="https://whimsical-capybara-96287e.netlify.app/">🔗 live link</a> 
     </td>
     <td align="center">
       <h3>🎮 GameHub</h3>
       <p><b>Tech:</b> JavaScript • Node.js • Express</p>
       <p>Game listing platform with search & review system</p>
-      <a href="https://github.com/ekram-haque/gamehub-repo">🔗 GitHub Repo</a>
+      <a href="https://gamehub-library.pages.dev/">🔗 live link</a>
     </td>
   </tr>
 </table>
