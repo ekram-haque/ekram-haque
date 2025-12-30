@@ -1,120 +1,94 @@
 # Hi 👋, I'm Ekramul Haque
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Passionate+Learner;Frontend+Web+Developer;JavaScript+Enthusiast;Exploring+New+Tech" alt="Typing SVG" />
-</a>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Full+Stack+Learner;JavaScript+Enthusiast;Exploring+Next.js+%26+Modern+Web" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** building modern, high-performance web apps.
+I am a passionate **Frontend Web Developer** with hands-on experience in modern web technologies.  
+I love building responsive, user-friendly, and scalable web applications.  
+Currently, I am focusing on **React, Next.js, and backend fundamentals** to become a strong full-stack developer.
 
-* 💡 Creative problem solver & quick learner
-* 🌱 Focused on **Next.js**, **Redux**, advanced React patterns
-* 🎯 Goal: Build scalable & performant web applications
-* 📫 Reach me at: [dev.ekramul@gmail.com](mailto:dev.ekramul@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
- 
-</p>
-
-### Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### Tools & Others
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
-  
-</p>
-
+- 📍 **Location:** Comilla, Bangladesh  
+- 📧 **Email:** mdekram121em@gmail.com 
+- 📞 **Contact:** +8801877496292
 
 ---
 
+## 🚀 Current Activities
 
+- 🌱 Exploring **Next.js** and advanced React patterns  
+- 🔭 Working on a **full-stack e-commerce & tourism-based project**  
+- 🧠 Learning **Redux, API optimization, and backend integration**
 
-<h2>🌐 Projects</h2>
+---
+
+## 🛠️ Skills & Technologies
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</p>
+
+---
+
+## 🌐 Featured Projects
 
 <table>
   <tr>
-    <!-- Project 1 -->
     <td align="center">
-      <div style="border:1px solid #e5e7eb; border-radius:12px; padding:20px; margin:10px; max-width:350px;">
-        <h3>🛒 <a href="https://github.com/ekram-haque/pawmart-client" target="_blank">Pawmart Client & Server</a></h3>
-        <p><b>Tech:</b> React • Node.js • Express • MongoDB</p>
-        <p><b>Features:</b> Product catalog, cart, checkout, admin panel</p>
-        <a href="https://github.com/ekram-haque/pawmart-client" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-Pawmart-22c55e?style=for-the-badge" />
-        </a>
-      </div>
+      <h3>🛒 Pawmart (Client & Server)</h3>
+      <p><b>Tech:</b> React • Node.js • Express • MongoDB</p>
+      <p>Full-featured e-commerce platform with admin panel & authentication</p>
+      <a href="https://github.com/ekram-haque/pawmart-client">🔗 Client Repo</a> 
+    </td>
     <td align="center">
-      <div style="border:1px solid #e5e7eb; border-radius:12px; padding:20px; margin:10px; max-width:350px;">
-        <h3>🎮 <a href="https://github.com/ekram-haque/gamehub-repo" target="_blank">GameHub</a></h3>
-        <p><b>Tech:</b> JavaScript • Node.js • Express</p>
-        <p><b>Features:</b> Game list, search, user interactions, reviews</p>
-        <a href="https://github.com/ekram-haque/gamehub-repo" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-GameHub-3b82f6?style=for-the-badge" />
-        </a>
-      </div>
+      <h3>🎮 GameHub</h3>
+      <p><b>Tech:</b> JavaScript • Node.js • Express</p>
+      <p>Game listing platform with search & review system</p>
+      <a href="https://github.com/ekram-haque/gamehub-repo">🔗 GitHub Repo</a>
     </td>
   </tr>
 </table>
 
-
----
-### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
-
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekram-haque&show_icons=true&theme=gruvbox&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekram-haque&layout=compact&theme=gruvbox" />
+  <img src="https://streak-stats.demolab.com?user=ekram-haque&theme=gruvbox" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ekram-haque/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/ekram-haque"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://ekramul.dev"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:dev.ekramul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/ekram-haque/](https://www.linkedin.com/in/ekramul-haque-947090375/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
-<!--- random quote --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+
+## 💡 Random Dev Quote
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ekram-haque&color=blueviolet&style=flat-square" />
-  
-</p>
-
-
 
