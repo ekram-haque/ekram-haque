@@ -1,6 +1,12 @@
-# Hi 👋, I'm Ekramul Haque
+  # This is Ekramul Haque
 
 <p align="center">
+  <img src="git-banner.jpeg" alt="Banner" width="100%" />
+</p>
+
+
+<p align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Full+Stack+Learner;JavaScript+Enthusiast;Exploring+Next.js+%26+Modern+Web" alt="Typing SVG" />
   </a>
@@ -10,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Frontend Web Developer** with hands-on experience in modern web technologies.  
-I love building responsive, user-friendly, and scalable web applications.  
-Currently, I am focusing on **React, Next.js, and backend fundamentals** to become a strong full-stack developer.
+I am a frontend-focused full-stack developer with strong hands-on experience in React and modern JavaScript. I build clean, maintainable, and responsive user interfaces with a focus on performance and accessibility.
+
+Currently, I am expanding my skills in Next.js and backend development to deliver complete, scalable web applications end-to-end.
 
 - 📍 **Location:** Comilla, Bangladesh  
 - 📧 **Email:** mdekram121em@gmail.com 
@@ -20,11 +26,12 @@ Currently, I am focusing on **React, Next.js, and backend fundamentals** to beco
 
 ---
 
-## 🚀 Current Activities
+## 🚀 What I’m Working On
 
-- 🌱 Exploring **Next.js** and advanced React patterns  
-- 🔭 Working on a **full-stack e-commerce & tourism-based project**  
-- 🧠 Learning **Redux, API optimization, and backend integration**
+
+- 🌱 Enhancing skills in **Next.js** and advanced **React architecture**
+- 🔭  Developing a **full-stack e-commerce & tourism platform**
+- 🧠 Strengthening knowledge of **Redux, REST APIs, and backend integration**
 
 ---
 
@@ -32,7 +39,7 @@ Currently, I am focusing on **React, Next.js, and backend fundamentals** to beco
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
@@ -42,59 +49,76 @@ Currently, I am focusing on **React, Next.js, and backend fundamentals** to beco
 
 ### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare" />
 </p>
 
 ---
 
 ## 🌐 Featured Projects
 
-<table>
+<table align="center" cellspacing="20">
   <tr>
-        <td align="center">
-      <h3>Scholarstream </h3>
-      <p><b>Tech:</b> React • Node.js • Express • MongoDB</p>
-      <p>Full-featured scholarship website .</p>
-      <a href="https://scholarstream.pages.dev">🔗 live link</a> 
+    <td width="33%" align="center" valign="top">
+      <h3>🎓 ScholarStream</h3>
+      <p><b>Tech Stack</b></p>
+      <p>React • Node.js • Express • MongoDB</p>
+      <p>
+        Scholarship discovery platform helping students find and apply for opportunities and admin dashboard.
+      </p>
+      <a href="https://scholarstream.pages.dev">🔗 Live</a> • 
+      <a href="https://github.com/ekram-haque/ScholarStream-client.git">📂 Code</a>
     </td>
-    <td align="center">
-      <h3>🛒 Pawmart </h3>
-      <p><b>Tech:</b> React • Node.js • Express • MongoDB</p>
-      <p>Full-featured e-commerce platform with admin panel & authentication</p>
-      <a href="https://whimsical-capybara-96287e.netlify.app/">🔗 live link</a> 
+    <td width="33%" align="center" valign="top">
+      <h3>🛒 Pawmart</h3>
+      <p><b>Tech Stack</b></p>
+      <p>React • Node.js • Express • MongoDB</p>
+      <p>
+        Full-featured e-commerce platform with authentication.
+      </p>
+         <a href="https://pawmart.pages.dev">🔗 Live</a> • 
+         <a href="https://github.com/ekram-haque/pawmart-client.git">📂 Code</a>
     </td>
-    <td align="center">
+    <td width="33%" align="center" valign="top">
       <h3>🎮 GameHub</h3>
-      <p><b>Tech:</b> JavaScript • Node.js • Express</p>
-      <p>Game listing platform with search & review system</p>
-      <a href="https://gamehub-library.pages.dev/">🔗 live link</a>
+      <p><b>Tech Stack</b></p>
+      <p>JavaScript • Node.js • Express</p>
+      <p>
+        Game discovery platform with search and user review functionality.
+      </p>
+      <a href="https://gamehub-library.pages.dev">🔗 Live</a> • 
+      <a href="https://github.com/ekram-haque/gamehub-repo.git">📂 Code</a>
     </td>
+    
   </tr>
 </table>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ekram-haque&theme=gruvbox" />
-</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ekram-haque/](https://www.linkedin.com/in/ekramul-haque-947090375/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ekramul-haque-947090375/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mdekram121em@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ekram-haque" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+
+
 
 ---
 
 ## 💡 Random Dev Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Clean code always looks like it was written by someone who cares.”  
+> — Robert C. Martin
+
 
 ---
 
