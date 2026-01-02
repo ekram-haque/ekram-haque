@@ -44,12 +44,12 @@ Currently, I am expanding my skills in Next.js and backend development to delive
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
 </p>
 
 ### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,cloudflare" />
 </p>
 
 ---
@@ -91,6 +91,36 @@ Currently, I am expanding my skills in Next.js and backend development to delive
     
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ekram-haque&show_icons=true&theme=gruvbox" width="300" />
+    </td>
+    <td width="20"></td> <!-- spacing -->
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=ekram-haque&theme=gruvbox" width="300" />
+    </td>
+    <td width="20"></td> <!-- spacing -->
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ekram-haque&layout=compact&theme=gruvbox" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" height="20"></td> <!-- extra spacing below -->
+  </tr>
+
+</table>
+
+## 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekram-haque&theme=gruvbox" alt="Profile Summary Card" />
+</p>
 
 ---
 
